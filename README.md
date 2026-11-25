@@ -27,7 +27,7 @@ The dataset comprises three underwater conditions:
 
 Each category contains degraded underwater images at different turbidity levels, along with corresponding reference images for evaluation.
 
-## 📂 Dataset Organization
+## Dataset Organization
 
 The dataset is organized as follows:
 
@@ -45,7 +45,23 @@ TURBID 3D/
 
 The reference images in the respective categories can be used for evaluating the restoration performance of different underwater image enhancement and dehazing algorithms.
 
-## 📥 Dataset Access and References
+## Dataset Visualization
+
+The TURBID dataset consists of three underwater imaging conditions. The following visualizations present the image samples available in each category, illustrating the variations in underwater visibility, turbidity, and image degradation.
+
+### 1. Chlorophyll
+
+![Chlorophyll Dataset](images/TURBID_Chlorophyll.png)
+
+### 2. DeepBlue
+
+![DeepBlue Dataset](images/TURBID_DeepBlue.png)
+
+### 3. Milk
+
+![Milk Dataset](images/TURBID_Milk.png)
+
+## Dataset Access and References
 
 The following links provide access to the original dataset information, its associated publication, and this repository.
 
