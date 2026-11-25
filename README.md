@@ -54,7 +54,7 @@ The following links provide access to the original dataset information, its asso
 | **Original TURBID Website**        | [Amanda Duarte – TURBID](http://amandaduarte.com.br/turbid/)          |
 | **Original Dataset Download Link** | [Dataset Download](https://mega.nz/!ZkgkSDJZ!ES9LgsZz0oUMnsfQyzBKgxamNx9KHrxAGyNvFjCwt8)             |
 | **Original Research Paper**        | [Duarte et al. (2016)](https://doi.org/10.1109/OCEANSAP.2016.7485524) |
-| **Current GitHub Repository**      | [TURBID Underwater Image Dataset](https://github.com/dhruvjain137/TURBID-Underwater-Dataset/) |
+| **Current GitHub Repository**      | [TURBID Underwater Image Dataset](https://github.com/image03-pixel/TURBID-Underwater-Dataset) |
 
 ##  Citation
 
